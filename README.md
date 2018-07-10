@@ -4,13 +4,15 @@ Project for API Technical Test
 
 ### Prerequisites
 
-* [Node.Js](https://nodejs.org/en/download/)
 * [GIT](https://git-scm.com/downloads)
+* [Node.Js](https://nodejs.org/en/download/)
+* [Mocha](https://www.npmjs.com/package/mocha)
 
 ### Installing
 
-1. Install Node.js
-2. Install GIT
+1. Install GIT
+2. Install Node.js
+3. Install Mocha
 3. Clone metrolab-techtest-api project
 
 ### Running Tests
