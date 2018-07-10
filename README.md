@@ -6,14 +6,12 @@ Project for API Technical Test
 
 * [Node.Js](https://nodejs.org/en/download/)
 * [GIT](https://git-scm.com/downloads)
-* [SourceTree](https://www.sourcetreeapp.com/)
 
 ### Installing
 
-1. Install Node.js
-2. Install GIT
-3. Install SourceTree
-4. Clone metrolab-techtest-api project
+#. Install Node.js
+#. Install GIT
+#. Clone metrolab-techtest-api project
 
 ### Running Tests
 
