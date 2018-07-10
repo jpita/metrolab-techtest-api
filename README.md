@@ -9,9 +9,9 @@ Project for API Technical Test
 
 ### Installing
 
-#. Install Node.js
-#. Install GIT
-#. Clone metrolab-techtest-api project
+1. Install Node.js
+2. Install GIT
+3. Clone metrolab-techtest-api project
 
 ### Running Tests
 
