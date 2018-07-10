@@ -13,7 +13,7 @@ Project for API Technical Test
 1. Install GIT
 2. Install Node.js
 3. Install Mocha
-3. Clone metrolab-techtest-api project
+4. Clone metrolab-techtest-api project
 
 ### Running Tests
 
